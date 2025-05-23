@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Title of document}  
+\rfoot{Institute Name \quad\thepage}  
+\begin{document}
+\title{Title of document}
+\author{}
+\date{}
+\maketitle
+\section{Section 1}
+\ Nature is a remarkable tapestry of life that surrounds us, offering beauty, peace, and inspiration. From the towering trees of the forest to the vast oceans, every part of the natural world plays a vital role in maintaining balance and harmony. The rustling of leaves in the wind, the chirping of birds at dawn, and the gentle flow of rivers remind us of the intricate interconnectedness of all living things. Nature provides the resources we need to survive, from clean air and water to fertile soil and abundant wildlife. Yet, it also has the power to heal and refresh, offering a sanctuary from the noise and pressures of modern life. Whether it’s the calm serenity of a mountain peak or the wild rush of a thunderstorm, nature’s raw power and tranquility are equally awe-inspiring. In appreciating and protecting nature, we ensure that future generations can also experience the magic of the natural world.
+\section{Section 2}
+\ Sports are an essential part of human life, offering more than just physical exercise. They bring people together, fostering a sense of community and teamwork. Whether it's the excitement of a soccer match, the intensity of a basketball game, or the grace of figure skating, sports have a unique way of uniting individuals from all walks of life. Beyond competition, sports teach valuable life lessons such as discipline, perseverance, and the importance of working together toward a common goal. They also provide an outlet for stress and a means to improve mental and physical health. From professional leagues to casual pick-up games, sports offer an opportunity for people to challenge themselves, develop skills, and enjoy moments of triumph and defeat. They celebrate both personal and collective achievements, creating lasting memories and a shared passion among fans and athletes alike.
+\end{document}
