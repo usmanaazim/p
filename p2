@@ -1,0 +1,11 @@
+\documentclass{article}
+\usepackage{lipsum}
+\title{Sample Abstract/Summary}
+\author{}
+\date{}
+\begin{document}
+\section*{Abstract}
+\ Badminton is a fast-paced and exciting sport that requires quick reflexes, agility, and precision. Played with a shuttlecock and rackets, it can be enjoyed both indoors and outdoors. The objective is to hit the shuttlecock over a net in such a way that the opponent cannot return it within the boundaries of the court. The game can be played in singles or doubles formats, and it’s known for its lightness and intensity. Badminton challenges players to maintain control, improve their hand-eye coordination, and stay physically fit. The sport has grown in popularity worldwide, with competitive tournaments such as the All England Open and the BWF World Championships showcasing the skills of top athletes. Whether for recreation or professional competition, badminton offers an exhilarating experience and promotes a healthy lifestyle through active movement, strategy, and sportsmanship.
+\vspace{0.5cm}  
+\ Football, also known as soccer in some parts of the world, is one of the most popular and widely played sports globally. It is a game of skill, strategy, and teamwork, where two teams of eleven players each compete to score goals by kicking a ball into the opponent's net. Played on a rectangular field with a goal at each end, the sport requires players to have excellent endurance, ball control, and the ability to think quickly under pressure. Football is more than just a game; it unites people of all ages, backgrounds, and nationalities. The thrill of watching a last-minute goal, the passion of fans, and the camaraderie between teammates make football an exciting spectacle both on and off the field. Major international tournaments such as the FIFA World Cup and the UEFA Champions League bring together the world’s best players and teams, showcasing the global appeal of the sport. Football not only entertains millions but also promotes discipline, teamwork, and a sense of community, making it an integral part of many cultures.
+\end{document}
